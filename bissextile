@@ -1,0 +1,9 @@
+annee = imput ("Saisissez une année")
+
+bissextile = false
+
+if annee/4 = int :
+	if annee/100 = int : 
+		if annee/4 = int : 
+			bissextile = true
+print (bissextile)
