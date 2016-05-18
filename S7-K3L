@@ -1,1 +1,3 @@
 var Discord = require("discord.js");
+
+var mybot = new Discord.Client();
