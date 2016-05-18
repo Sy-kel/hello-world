@@ -1,6 +1,6 @@
-annee = imput ("Saisissez une année")
+annee = input ("Saisissez une année")
 
-bissextile = false
+bissextile = False
 
 if annee/4 = int :
 	if annee/100 = int : 
