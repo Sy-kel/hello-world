@@ -1,3 +1,5 @@
 var Discord = require("discord.js");
 
+var pf = "_"
+
 var mybot = new Discord.Client();
